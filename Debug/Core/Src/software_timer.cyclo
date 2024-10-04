@@ -1,0 +1,4 @@
+../Core/Src/software_timer.c:13:6:setTimer	2
+../Core/Src/software_timer.c:22:6:clearTimer	2
+../Core/Src/software_timer.c:31:6:timerRun	4
+../Core/Src/software_timer.c:46:5:getTimerFlag	2
