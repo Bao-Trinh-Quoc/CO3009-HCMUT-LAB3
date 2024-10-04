@@ -22,6 +22,7 @@
 #include "output_traffic.h"
 #include "output_LED7SEG.h"
 #include "input_reading.h"
+#include "fsm_processing.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 

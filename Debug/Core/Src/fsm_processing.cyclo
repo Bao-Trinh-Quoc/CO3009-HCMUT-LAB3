@@ -1,0 +1,3 @@
+../Core/Src/fsm_processing.c:12:6:fsmInit	1
+../Core/Src/fsm_processing.c:19:6:fsmReInit	5
+../Core/Src/fsm_processing.c:64:6:fsmProcessing	54
