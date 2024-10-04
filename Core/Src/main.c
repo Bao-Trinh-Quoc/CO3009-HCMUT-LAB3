@@ -20,6 +20,7 @@
 #include "main.h"
 #include "software_timer.h"
 #include "output_traffic.h"
+#include "output_LED7SEG.h"
 #include "input_reading.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
